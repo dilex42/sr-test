@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.2.1 (2022-04-05)
+### Fix
+* Change release workflow ([`9fb7c17`](https://github.com/dilex42/sr-test/commit/9fb7c17f41a2512ae805b0725c2622affe1615a8))
+
 ## v0.2.0 (2022-04-05)
 ### Feature
 * Add setup.py ([`07edf5f`](https://github.com/dilex42/sr-test/commit/07edf5f915fbe120b412f2327a9d821a9466ed40))
