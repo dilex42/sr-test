@@ -2,6 +2,11 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.1 (2022-04-05)
+### Fix
+* Ci workflow ([`eac9046`](https://github.com/dilex42/sr-test/commit/eac904636aa1a63accdeb011e7ae32eea843b3eb))
+* Another release workflow ([`2ed3419`](https://github.com/dilex42/sr-test/commit/2ed3419604598563f6106cb3d6de5f13e84a6aea))
+
 ## v0.1.0 (2022-04-05)
 ### Feature
 * Change release workflow ([`0b6cb61`](https://github.com/dilex42/sr-test/commit/0b6cb6124a91029cc78bcd0653736ebe97309521))
