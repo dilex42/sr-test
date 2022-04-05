@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.2.0 (2022-04-05)
+### Feature
+* Add setup.py ([`07edf5f`](https://github.com/dilex42/sr-test/commit/07edf5f915fbe120b412f2327a9d821a9466ed40))
+
 ## v0.1.1 (2022-04-05)
 ### Fix
 * Ci workflow ([`eac9046`](https://github.com/dilex42/sr-test/commit/eac904636aa1a63accdeb011e7ae32eea843b3eb))
