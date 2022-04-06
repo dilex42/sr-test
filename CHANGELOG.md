@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.2.3 (2022-04-06)
+### Fix
+* Change pyproject ([`7e855a1`](https://github.com/dilex42/sr-test/commit/7e855a1e62ee965e7bf71fbffdfeb07224120ae3))
+
 ## v0.2.2 (2022-04-06)
 ### Fix
 * Change pyproject ([`1efb50e`](https://github.com/dilex42/sr-test/commit/1efb50e6af48444a9db4a6d3156ac1412a3d5086))
