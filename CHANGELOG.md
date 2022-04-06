@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.2.2 (2022-04-06)
+### Fix
+* Change pyproject ([`1efb50e`](https://github.com/dilex42/sr-test/commit/1efb50e6af48444a9db4a6d3156ac1412a3d5086))
+
 ## v0.2.1 (2022-04-05)
 ### Fix
 * Change release workflow ([`9fb7c17`](https://github.com/dilex42/sr-test/commit/9fb7c17f41a2512ae805b0725c2622affe1615a8))
