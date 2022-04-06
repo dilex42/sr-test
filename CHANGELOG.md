@@ -2,6 +2,11 @@
 
 <!--next-version-placeholder-->
 
+## v0.4.0 (2022-04-06)
+### Feature
+* **semantic checker:** Customize check app ([`5583475`](https://github.com/dilex42/sr-test/commit/55834755acd433d63b51c65a406c65f04d8a06a7))
+* Test title ([#12](https://github.com/dilex42/sr-test/issues/12)) ([`4aa7f4c`](https://github.com/dilex42/sr-test/commit/4aa7f4c3711905ae3e36a1c6ddcb59495827c14c))
+
 ## v0.3.0 (2022-04-06)
 ### Feature
 * Test title (#12) ([#13](https://github.com/dilex42/sr-test/issues/13)) ([`00e5066`](https://github.com/dilex42/sr-test/commit/00e50663130a7a4186707a4cf866dda34ef6f7eb))
