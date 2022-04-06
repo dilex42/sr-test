@@ -4,6 +4,5 @@ version_variable = [
 ]
 branch = "main"
 upload_to_pypi = false
-upload_to_release = true
+upload_to_release = false
 upload_to_repository = false
-remove_dist = false
