@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.2.4 (2022-04-06)
+### Fix
+* Disable upload to release ([`2c0e6e3`](https://github.com/dilex42/sr-test/commit/2c0e6e375f7f3aebbe3b4114b3fd4e23d273c3d6))
+
 ## v0.2.3 (2022-04-06)
 ### Fix
 * Change pyproject ([`7e855a1`](https://github.com/dilex42/sr-test/commit/7e855a1e62ee965e7bf71fbffdfeb07224120ae3))
