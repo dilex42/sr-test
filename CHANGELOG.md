@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.3.0 (2022-04-06)
+### Feature
+* Test title (#12) ([#13](https://github.com/dilex42/sr-test/issues/13)) ([`00e5066`](https://github.com/dilex42/sr-test/commit/00e50663130a7a4186707a4cf866dda34ef6f7eb))
+
 ## v0.2.5 (2022-04-06)
 ### Fix
 * **semantic-release:** Fix typo with version ([#6](https://github.com/dilex42/sr-test/issues/6)) ([`25d8fc6`](https://github.com/dilex42/sr-test/commit/25d8fc6e2d4cc1b044937244552123b7e204d593))
