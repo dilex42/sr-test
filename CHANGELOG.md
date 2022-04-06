@@ -2,6 +2,19 @@
 
 <!--next-version-placeholder-->
 
+## v0.3.0 (2022-04-06)
+### Feature
+* Test title (#12) ([#13](https://github.com/dilex42/sr-test/issues/13)) ([`00e5066`](https://github.com/dilex42/sr-test/commit/00e50663130a7a4186707a4cf866dda34ef6f7eb))
+
+## v0.2.5 (2022-04-06)
+### Fix
+* **semantic-release:** Fix typo with version ([#6](https://github.com/dilex42/sr-test/issues/6)) ([`25d8fc6`](https://github.com/dilex42/sr-test/commit/25d8fc6e2d4cc1b044937244552123b7e204d593))
+* Semantic-release typo ([`d03b020`](https://github.com/dilex42/sr-test/commit/d03b020886145d385ca17f7e453ac6619a5f2aa5))
+
+## v0.2.4 (2022-04-06)
+### Fix
+* Disable upload to release ([`2c0e6e3`](https://github.com/dilex42/sr-test/commit/2c0e6e375f7f3aebbe3b4114b3fd4e23d273c3d6))
+
 ## v0.2.3 (2022-04-06)
 ### Fix
 * Change pyproject ([`7e855a1`](https://github.com/dilex42/sr-test/commit/7e855a1e62ee965e7bf71fbffdfeb07224120ae3))
