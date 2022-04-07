@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v1.1.0 (2022-04-07)
+### Feature
+* Add new stuff ([#20](https://github.com/dilex42/sr-test/issues/20)) ([`6be1f5f`](https://github.com/dilex42/sr-test/commit/6be1f5f0dff767a0f9a962bf1ce4274ca34176c8))
+
 ## v1.0.0 (2022-04-07)
 ### Feature
 * Change function ([#19](https://github.com/dilex42/sr-test/issues/19)) ([`8dfc0a5`](https://github.com/dilex42/sr-test/commit/8dfc0a54fe69b6627304a94d2d95e69355e5a7e7))
