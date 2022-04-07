@@ -2,6 +2,16 @@
 
 <!--next-version-placeholder-->
 
+## v1.0.0 (2022-04-07)
+### Feature
+* Change function ([#19](https://github.com/dilex42/sr-test/issues/19)) ([`8dfc0a5`](https://github.com/dilex42/sr-test/commit/8dfc0a54fe69b6627304a94d2d95e69355e5a7e7))
+
+### Fix
+* **scope1:** Fix file ([#18](https://github.com/dilex42/sr-test/issues/18)) ([`1a6254f`](https://github.com/dilex42/sr-test/commit/1a6254fc8f33eb03bf4a423a010c3871d1ff6079))
+
+### Breaking
+* change function ([#19](https://github.com/dilex42/sr-test/issues/19)) ([`8dfc0a5`](https://github.com/dilex42/sr-test/commit/8dfc0a54fe69b6627304a94d2d95e69355e5a7e7))
+
 ## v0.5.0 (2022-04-07)
 ### Feature
 * **scope1:** Add shoto ([#16](https://github.com/dilex42/sr-test/issues/16)) ([`f9024fb`](https://github.com/dilex42/sr-test/commit/f9024fb89fd605d282d31f021d0c189f7f7ba9a5))
