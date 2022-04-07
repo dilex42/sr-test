@@ -2,6 +2,15 @@
 
 <!--next-version-placeholder-->
 
+## v0.5.0 (2022-04-07)
+### Feature
+* **scope1:** Add shoto ([#16](https://github.com/dilex42/sr-test/issues/16)) ([`f9024fb`](https://github.com/dilex42/sr-test/commit/f9024fb89fd605d282d31f021d0c189f7f7ba9a5))
+
+### Fix
+* **scope2:** Fixed typo ([`39d66e8`](https://github.com/dilex42/sr-test/commit/39d66e839b38c7eb95b630cee2b7bb19c1e580c5))
+* **scope2:** Delete bracket ([`540278a`](https://github.com/dilex42/sr-test/commit/540278aba43d78e1f51928fac616f294295da76c))
+* **scope2:** Fixed typo ([`b1997fc`](https://github.com/dilex42/sr-test/commit/b1997fc6f73a810de2d4c3885b2889dc43dd7f37))
+
 ## v0.4.0 (2022-04-06)
 ### Feature
 * **semantic checker:** Customize check app ([`5583475`](https://github.com/dilex42/sr-test/commit/55834755acd433d63b51c65a406c65f04d8a06a7))
